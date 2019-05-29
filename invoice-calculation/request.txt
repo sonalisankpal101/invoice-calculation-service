@@ -1,0 +1,1 @@
+{"inVoiceId":"123","items":[{"itemId":"1","itemName":"Extra Vergin Oil","itemType":"NonGrocerry","itemPrice":20.0},{"itemId":"2","itemName":"Green Leaves","itemType":"Grocery","itemPrice":30.0}],"customer":{"customerId":"1","customerName":"Soanli","customerType":"Employee","dateOfRegistration":"28-08-2017"}}
